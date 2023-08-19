@@ -1,3 +1,3 @@
 ls -l
 pwd
-yum list installed
+yum list install
