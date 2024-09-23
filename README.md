@@ -13,3 +13,6 @@ Topics of shell scripting
 9. Quotes
 10. Redirectors
 11. sed editor
+
+
+Shell script not working if it is not a root user - means shell script should stop if it is not root user.
