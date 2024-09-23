@@ -23,3 +23,7 @@ Redirectors:
   (>),(1) ---- output
   (2>) ----- error
   (&>) ---output+error
+  
+  @ >(single redirector) will over write the content
+  @ > >(double redirector) will append the contnet
+  &>> will append the content and errors will save 
