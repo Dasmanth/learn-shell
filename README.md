@@ -16,3 +16,6 @@ Topics of shell scripting
 
 
 Shell script not working if it is not a root user - means shell script should stop if it is not root user.
+Redirectors:
+ 
+  It's used to store the out of the file in the custome path
